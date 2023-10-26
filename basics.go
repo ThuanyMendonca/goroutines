@@ -12,7 +12,7 @@ func fun(value string) {
 	}
 }
 
-func main() {
+func mainFun() {
 	// Direct call
 	fun("Direct call")
 
